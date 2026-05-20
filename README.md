@@ -41,7 +41,7 @@ The harness prints each result and writes `results.json`, which is ignored by gi
 
 The harness includes seven focused scenarios:
 
-1. **Cross-Session Persistence**
+1. **Persistence**
 2. **Score Calibration**
 3. **Name Variation Retrieval**
 4. **Multi-Entity Ambiguity**
